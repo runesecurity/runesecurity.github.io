@@ -2,7 +2,7 @@ from datetime import datetime
 
 AUTHOR = '@rune_sec'
 SITENAME = 'runesec | CTI Research + Blog'
-SITEURL = ""
+SITEURL = "https://runesecurity.github.io"
 
 THEME = "themes/Flex"
 PATH = "content"
