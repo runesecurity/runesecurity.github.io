@@ -4,7 +4,7 @@ AUTHOR = '@rune_sec'
 SITENAME = 'runesec | CTI Research + Blog'
 SITEURL = ""
 
-THEME = "Flex"
+THEME = "../pelican-themes/Flex"
 PATH = "content"
 OUTPUT_PATH = 'output'
 
